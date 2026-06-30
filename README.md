@@ -1,4 +1,3 @@
-html id="github-readme"
 <div align="center">
     <img
         src="https://capsule-render.vercel.app/api?type=waving&color=ffd60a&height=180&text=Enjoy%20Eui%20Joy%20Day&animation=fadeIn&fontColor=34495e&fontSize=50"
