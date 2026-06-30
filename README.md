@@ -3,11 +3,11 @@
 </div>
 
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> H! Welcome Eui Jeong Day </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎉 H! Welcome Eui Joy Day 🎉</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         👩‍💻 name : Eui Jeong Kwak <br>
         🏫 edu : Hanyang Univ, ERICA <br>
-        ✏️ major : Division of ICT, Computer Science (Double major: Media Technology & Computer Science)
+        ✏️ major : Division of ICT, Computer Science
     </div> 
 </div>
 
@@ -32,6 +32,27 @@
             <li>Multi-repo microservices (agent, hub, client, user, infra)</li>
             <li>Integrated TourAPI 4.0, KMA Weather, Kakao Local/Mobility, OSRM</li>
             <li>Team lead & backend developer — 대국민 AI ROOKIE 대회</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" valign="top">
+          <h3>🕵️ Moroi (Temi)</h3>
+          <p>Escape-room game built on the Temi robot — "Find the suspect"</p>
+          <ul align="left">
+            <li>Arduino · Java · Firebase Realtime Database</li>
+            <li>RFID sensors, servo motors, and multiple button modules orchestrated for the in-game puzzle logic</li>
+            <li>Connected Arduino and Android Studio via Firebase</li>
+            <li>Role: Arduino development, UI design, Java development (team of 5)</li>
+          </ul>
+        </td>
+        <td width="50%" valign="top">
+          <h3>🧭 Pace</h3>
+          <p>A day's flow from schedule to departure, at your own pace</p>
+          <ul align="left">
+            <li>Backend developer (team of 10) — UMC 9th</li>
+            <li>Google Routes API integration: parsing and mapping response data to service-specific schema</li>
+            <li>ERD design, Docker-based deployment, Swagger API docs</li>
           </ul>
         </td>
       </tr>
